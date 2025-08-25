@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Documento sin t&iacute;tulo</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url(IMAGENES/FONDO.png);
+	<img src="file:///C|/Users/PC - OS/Downloads/SITIO WEB ASESORIA CONT/IMAGENES/LOGO.JPG" width="510" height="497" />
+}
+.Estilo1 {font-size: 24px}
+.Estilo2 {	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 36px;
+}
+.Estilo3 {font-size: 24px; font-weight: bold; }
+.Estilo4 {
+	font-size: 36px;
+	font-weight: bold;
+}
+.Estilo6 {color: #FFFFFF}
+-->
+</style></head>
+
+<body>
+<div align="center">
+  <p class="Estilo4">ESPECIALISTAS EN : Asesor&iacute;as en Planillas y Gesti&oacute;n de Personal</p>
+  <p class="Estilo1"><img src="IMAGENES/LOGO.JPG" width="200" height="200" /></p>
+  <p class="Estilo1">&nbsp;</p>
+</div>
+<table width="1536" height="100" border="0">
+  <tr>
+    <th width="279" height="96" scope="col"><a href="INICIO.html" target="_self"><img src="BOTONES/button_inicio.png" width="106" height="44" border="0" /></a></th>
+    <th width="376" scope="col"><a href="NOSOTROS.html" target="_self"><img src="BOTONES/button_nosotros.png" width="152" height="44" border="0" /></a></th>
+    <th width="337" scope="col"><a href="SERVICIOS.html" target="_self"><img src="BOTONES/button_servicios.png" width="154" height="44" border="0" /></a></th>
+    <th width="257" scope="col"><a href="CLIENTES.html" target="_self"><img src="BOTONES/button_clientes.png" width="133" height="44" border="0" /></a></th>
+    <th width="265" scope="col"><em><a href="CONTACTO.html" target="_self"><img src="BOTONES/button_contacto.png" width="153" height="44" border="0" /></a></em></th>
+  </tr>
+</table>
+<div align="center">
+  <p class="Estilo2">BIENVENIDOS</p>
+  <p class="Estilo2"><img src="IMAGENES/SRTA CONTABLE.gif" width="250" height="250" /> </p>
+  <div align="center">
+    <p class="Estilo3">Administramos la contabilidad y las planillas de empresas con eficiencia en las modalidades InHouse y Outsourcing apoyados por nuestros especialistas tributarios, contables y laborales manteniendo la confidencialidad de la informaci&oacute;n.</p>
+  </div>
+  <p align="left" class="Estilo2">
+    <embed src="AUDIO/INTRO.mp3" width="150" height="80"></embed>
+  </p>
+</div>
+<em></em> 
+<table width="1636" border="2" cellspacing="15" cellpadding="15">
+  <tr>
+    <th width="1570" bgcolor="#0000FF" scope="col"><div align="center" class="Estilo6">TODOS LOS DERECHOS RESERVADOS &reg;2025 .DISE&Ntilde;ADO POR ROSSMERY ROQUE </div></th>
+  </tr>
+</table>
+</body>
+</html>
